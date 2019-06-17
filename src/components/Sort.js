@@ -17,9 +17,9 @@ class Sort extends Component {
                                                           aria-expanded="true">
                                                       Sắp xếp
                                                </button>
-                                               <ul className="dropdown-menu" aia-labelledby="dropdownMenu1" >
+                                                 <ul className="dropdown-menu" aia-labelledby="dropdownMenu1" >
                                                    <li>
-                                                     <a role="button" className="sort_selected">A - R </a>
+                                                     <a role="button" className="<sort_></sort_>selected">A - R </a>
                                                      </li>
                                                   <li>
                                                      <a role= "button" >  R - A </a>

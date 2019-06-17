@@ -18,7 +18,7 @@ class  TaskForm extends Component {
       var target =event.target;
       var name = target.name;
       var value = target.value;
-      var ghichu= target.ghichu;
+      var ghichu = target.ghichu;
       if(name==='status'){
         value= target.value ==='true' ? true  : false;
       } 
