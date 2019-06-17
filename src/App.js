@@ -3,7 +3,7 @@ import './App.css';
 import TaskForm  from './components/TaskForm';
 import Controls  from './components/Controls';
 import TaskList  from './components/TaskList';
-import demo  from './redux/demo';
+
 
 
 
